@@ -10,10 +10,9 @@
 
 1. **Download and run the setup script:**
 
-   Replace `<RAW_SCRIPT_URL>` with the direct URL to your `setup_wordcloud_app.sh` file (for example, from GitHub raw):
 
    ```bash
-   curl -fsSL <RAW_SCRIPT_URL> | bash
+   curl -fsSL https://raw.githubusercontent.com/robword/wordcloudr/refs/heads/main/setup_wordcloud_app.sh | bash
    ```
 
    The script will:
