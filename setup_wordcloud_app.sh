@@ -25,7 +25,7 @@ python3 -m spacy download en_core_web_sm
 
 echo "🗂️ Cloning app repository..."
 # Replace with your actual repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git src
+git clone https://github.com/robword/wordcloudr.git src
 
 echo "📁 Setting permissions..."
 chmod +x src/app.py
